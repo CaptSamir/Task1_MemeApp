@@ -3,8 +3,9 @@
 An application that contains memes about programming and introducing myself 
 ويدعم اللغه العربية
 ## Built with:
-##### .Kotlin 
-##### .Xml 
+##### •Kotlin 
+##### •Xml 
+##### •Tools: Android Studio
 ## Screen Shots
 <div>
   <img src="https://github.com/user-attachments/assets/51ce3fb4-268e-4b5c-b8db-1662048486c2"  width ="300" height="600">
