@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق ميم </string>
+    <string name="meme_1">الميم الاول</string>
+    <string name="meme_2">الميم الثاني</string>
+    <string name="name">الاسم : سمير اسلام سمير </string>
+    <string name="age">العمر : 19</string>
+    <string name="faculty"> ادرس قوى والات كهربية في كليه الهندسة جامعة بورسعيد</string>
+    <string name="job">مطور تطبيقات الهاتف</string>
+    <string name="finish">الانتهاء</string>
+    <string name="i_hope_you_like_my_app">اتمنى ان ينال تطبيقي اعجابك</string>
+</resources>

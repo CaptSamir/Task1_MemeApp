@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Memes APP</string>
+    <string name="meme_1">first meme</string>
+    <string name="meme_2">second meme</string>
+    <string name="name">Name: Samir Eslam Samir</string>
+    <string name="age">Age : 19</string>
+    <string name="faculty">Faculty: Undergraduate Electrical Engineer at PSU</string>
+    <string name="job">Job: Mobile APP Developer</string>
+    <string name="finish">finish</string>
+    <string name="i_hope_you_like_my_app">I hope you like my app</string>
+
+</resources>
